@@ -2,6 +2,10 @@ guests = ['Igor', 'Laisa', 'Joao']
 message = 'Gostaria de jantar hoje: ' + guests[0]
 print message
 
+aqui = 'Quantas pessoas vão vim no jantar:' + str(len(guests))
+
+print aqui
+
 dontgo = guests.pop()
 mesageleave = 'The guest ' + dontgo + ' dont came'
 print mesageleave
