@@ -5,6 +5,7 @@ for item in magicians:
 
 print "Thank you, everyone. That was a great magic show!" + "\n"
 
+'''
 pizzas = ['calabresa', 'peperoni', 'sugo']
 for pizza in pizzas:
     print "Gosto de pizza de " + pizza
@@ -14,3 +15,4 @@ animals = ['macacaco', 'elefante', 'tigre']
 for animal in animals:
     print animal + " seria uma ótimo anima de estimação"
 print "I love animals"
+'''
