@@ -1,0 +1,3 @@
+Em Python podemos criar classes python.
+Em Python podemos criar arquivos.
+Em Python podemos rodar varias classes.

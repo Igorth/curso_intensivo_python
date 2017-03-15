@@ -42,8 +42,8 @@ cubos = []
 for value in range(1,11):
     cubo = value**3
     cubos.append(cubo)
-print cubos
+print(cubos)
 
  #usando o list comprehesions para calcular o cubo
 cubos = [value**3 for value in range(1,11)]
-print cubos
+print(cubos)
